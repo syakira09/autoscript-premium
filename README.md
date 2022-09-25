@@ -53,5 +53,9 @@
 - Always Use HTTPS : [OFF]<br>
 - UNDER ATTACK MODE : [OFF]<br>
 
+<h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://github.com/ryz-store/.github/blob/main/assets/ss1.png"> 
+
 # REQUEST ACCESS 
 - https://t.me/ryzXD
