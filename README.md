@@ -1,7 +1,4 @@
 # Autoscript Premium (Ubuntu 18-20/Debian 10)
-![OS](https://shields.io/badge/OS-Ubuntu%2018+-green?logo=ubuntu&style=for-the-badge) 
-![OS](https://shields.io/badge/OS-Debian%2010+-green?logo=debian&style=for-the-badge)
-![Virtualization](https://shields.io/badge/Virtualization-KVM-green?logo=tryhackme&style=for-the-badge) ![Architecture](https://shields.io/badge/Architecture-Intel%20or%20AMD-green?logo=moleculer&style=for-the-badge)
 
 ![Dropbear](https://shields.io/badge/Service-Dropbear-orange?logo=jamboard&style=for-the-badge) 
 ![Stunnel](https://shields.io/badge/Service-Stunnel-orange?logo=keepassxc&style=for-the-badge) 
@@ -17,18 +14,17 @@
 # INSTALL 
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/ryz-store/autoscript-premium/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
-## Dependencies
-- OS: Ubuntu 18+/Debian 10
-- Virtualization: KVM Or HyperV
-- Architecture: Intel or AMD
+
 
 # TESTED ON OS 
-- Debian 10
-- Ubuntu 20.04
+![OS](https://shields.io/badge/OS-Ubuntu%2018+-green?logo=ubuntu&style=for-the-badge) 
+![OS](https://shields.io/badge/OS-Debian%2010+-green?logo=debian&style=for-the-badge)
+![Virtualization](https://shields.io/badge/Virtualization-KVM-green?logo=tryhackme&style=for-the-badge)
+![Architecture](https://shields.io/badge/Architecture-Intel%20or%20AMD-green?logo=moleculer&style=for-the-badge)
 
 # TESTED ON SERVER
-- Linode
-- Digital Ocean
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
 # PORT INFO
 - TROJAN WS 443<br>
@@ -59,3 +55,5 @@
 
 # REQUEST ACCESS 
 - https://t.me/ryzXD
+
+<img width='200' src="https://activity-graph.herokuapp.com/graph?username=ryz-code&theme=minimal" /> <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryz-code&theme=vue" />
