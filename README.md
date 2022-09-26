@@ -53,6 +53,13 @@
 <p align="center">
 <img src="https://github.com/ryz-store/.github/blob/main/assets/ss1.png"> 
 
+
+# INFO HARGA
+10K/Bulan(1 IP VPS)
+20K/Bulan(2 IP VPS)
+35K LIFETIME(1 IP VPS)
+50K LIFETIME(1 IP VPS, BEBAS GANTI)
+
 # REQUEST ACCESS 
 - https://t.me/ryzXD
 
