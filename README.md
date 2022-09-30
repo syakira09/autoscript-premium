@@ -39,7 +39,7 @@
 - VMESS NONTLS 80<br>
 - SSH WS / TLS 443<br>
 - SSH NON TLS 8880<br>
-- SLOWDNS 5300 [ON]<br>
+- SLOWDNS 5300<br>
 
 # SETTING CLOUDFLARE 
 - SSL/TLS : FULL<br>
@@ -49,9 +49,9 @@
 - Always Use HTTPS : [OFF]<br>
 - UNDER ATTACK MODE : [OFF]<br>
 
-<h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://github.com/ryz-store/.github/blob/main/assets/ss1.png"> 
+
+
+
 
 
 # INFO HARGA
